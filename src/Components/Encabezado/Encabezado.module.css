@@ -1,0 +1,20 @@
+.encabezado{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 30px;
+    background-color: black;
+}
+
+.diarioName{
+    font-size: 90px;
+    color: white;
+    font-family: serif;
+}
+
+.logoMarca{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    border-style: solid;
+}
